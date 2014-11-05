@@ -1,6 +1,6 @@
 package:
   name: llvm
-  version: "3.5.0"
+  version: 3.5.0
 
 source:
   fn: llvm-3.5.0.src.tar.xz
@@ -8,7 +8,7 @@ source:
   md5: d6987305a1a0e58e128c1374cd3b8fef
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
