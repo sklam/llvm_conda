@@ -13,7 +13,7 @@ build:
 requirements:
   build:
     - system           [linux and not armv6]
-    - cmake            [win]
+    #- cmake            [win]
   run:
     - system           [linux and not armv6]
 
